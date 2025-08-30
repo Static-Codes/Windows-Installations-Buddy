@@ -1,0 +1,18 @@
+Brave
+Chrome
+Chromium
+Edge
+Firefox
+Librewolf
+Opera
+Opera GX
+Pale Moon
+Seamonkey
+Tor
+Vivaldi
+Waterfox
+
+
+
+-> Addons
+Use Custom userChrome.css (Firefox browsers)

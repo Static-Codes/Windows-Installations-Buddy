@@ -1,0 +1,12 @@
+7Zip
+Audacious Media Player
+LibreOffice
+Modern CSV
+NoMacs
+Okular
+Photoshop CS6
+VLC Media Player
+WinRAR
+
+Addons:
+Download VLC Media Player Skins -> https://www.videolan.org/vlc/skins.html

@@ -1,0 +1,28 @@
+AMD Adrenalin
+AMD ReLive
+Battle.net Launcher
+Bluestacks Emulator
+CPU Z
+CurseForge
+Epic Games Launcher
+ExitLag
+GPU Z
+HWiNFO
+HWMonitor
+Itch.io Launcher
+MSI Afterburner
+Nexus Manager
+NVDA GeForce Experience
+NVDA ShadowPlay
+OBS Studio
+Parsec
+PingPlotter
+Process Lasso
+Razer Cortex
+Reshade
+Rockstar Launcher
+Roblox Launcher
+Streamlabs OBS
+Steam Launcher
+XPadder
+WTFast

@@ -1,0 +1,32 @@
+Android Studio
+Azure Data Studio
+Burp Suite
+Docker Desktop
+FileZilla
+Github Desktop
+Eclipse IDE
+Fiddler Classic
+IntelliJ IDEA
+Kubernetes
+MongoDB
+MySQL Workbench
+Nmap
+NodeJS
+Notepad++
+Ollama
+Oracle VirtualBox
+OWASP ZAP
+PostgreSQL
+Postman
+PyCharm
+Python 2.7.18
+Python 3.12
+PuTTY
+Sublime Text
+Visual Studio
+Visual Studio Code
+VMWare Workstation
+WebStorm
+WireShark
+WSL2
+XAMPP
